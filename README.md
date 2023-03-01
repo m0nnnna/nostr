@@ -1,0 +1,2 @@
+# nostr
+Nostr with SQLite
