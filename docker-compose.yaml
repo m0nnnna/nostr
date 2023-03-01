@@ -1,0 +1,16 @@
+version: '3'
+services:  
+  nostr:
+    build: ./nostr
+    restart: "always"
+    ports:
+      - 7000:8080      
+    volumes:
+      - ./nostr:/opt/data
+      
+networks:
+  
+   
+volumes:
+  
+    
