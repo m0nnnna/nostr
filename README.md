@@ -1,4 +1,4 @@
-These guides will allow you to setup Nostr within a Docker container with ease.
+This guide will allow you to setup Nostr relay within a Docker container with ease.
 
 Download the files in this repo, if you have an icon that you wanna use make sure you put "favicon.ico" in your working directory. 
 
